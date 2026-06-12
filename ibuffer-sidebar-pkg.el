@@ -1,0 +1,2 @@
+;; Generated package description from ibuffer-sidebar.el  -*- mode: lisp-data; no-byte-compile: t; lexical-binding:t -*-
+(define-package "ibuffer-sidebar" "0.0.1.0.20260611.35" "Sidebar for `ibuffer'" '((emacs "29.1")) :commit "1673f5f03d2b4108eabe374bac57ed7b7989fc47" :authors '(("James Nguyen" . "james@jojojames.com")) :maintainer '("James Nguyen" . "james@jojojames.com") :keywords '("ibuffer" "files" "tools") :url "https://github.com/jojojames/ibuffer-sidebar")
